@@ -1,0 +1,4 @@
+collections:
+  bookpages:
+    output: true
+    permalink: /pages/:name

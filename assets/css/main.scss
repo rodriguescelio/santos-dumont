@@ -1,0 +1,41 @@
+---
+---
+@import url('https://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,700');
+
+body {
+    font-family: 'Gentium Book Basic', serif;
+    background-color: #f8f8f8;
+    color: #383838;
+    margin: 0;
+}
+
+section {
+    margin: 1em auto;
+    width: 800px;
+    max-width: 88%;
+
+    h3 {
+        font-size: 2rem;
+        letter-spacing: 2px;
+    }
+
+    p {
+        display: inline-block;
+        width: 100%;
+        margin-top: .5em;
+        margin-bottom: .5em;
+        font-size: 1.4rem;
+        line-height: 1.5;
+        text-indent: 60px;
+        text-align: justify;
+    }
+
+    span {
+        display: block;
+        text-indent: 0;
+    }
+
+    i {
+        float: right;
+    }
+}
